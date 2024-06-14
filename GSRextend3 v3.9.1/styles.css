@@ -1,0 +1,11 @@
+.container {
+    margin-top: 3px; /* ขยับข้อความลงมา 3px */
+    padding: 3px; /* เพิ่มช่องว่างภายใน */
+    background-color: orange; /* พื้นหลังสีส้ม */
+    border: 2px solid black; /* ขอบสีดำขนาด 2px */
+    border-radius: 30px; /* มุมโค้งมนขนาด 30px */
+    font-size: 14px; /* ขนาดตัวอักษร */
+    font-weight: bold; /* ตัวหนังสือหนา */
+    color: black; /* สีตัวอักษร */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* เงาจาง ๆ */
+}
